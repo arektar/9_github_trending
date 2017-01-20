@@ -1,6 +1,6 @@
 # Github Trends
 
-[TODO. There will be project description]
+Программа выводит 20 наиболее популярных проектов на github.com и количество незавершенных задачь в этих проектах.
 
 # Project Goals
 
